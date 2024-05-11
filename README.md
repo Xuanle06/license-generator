@@ -23,6 +23,7 @@ The License Generator is a convenient and practical tool designed to simplify th
 ## Contributors
 
 Big thanks to all the people who have already contributed!
+
 [![contributors](https://contrib.rocks/image?repo=Xuanle06/license-generator)](https://github.com/Xuanle06/license-generator/graphs/contributors)
 
 ## Credits
