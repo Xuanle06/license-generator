@@ -29,6 +29,7 @@ Big thanks to all the people who have already contributed!
 ## Credits
 
 Coded with ❤️ by xl.kind
+
 Contributor graph is generated using [contrib.rocks](https://contrib.rocks/preview?repo=Xuanle06%2Flicense-generator).
 
 ## License
