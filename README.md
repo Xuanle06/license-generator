@@ -20,3 +20,16 @@ Companies and organizations can use the License Generator to generate appropriat
 Summary:
 
 The License Generator is a convenient and practical tool designed to simplify the license management process and help users create license texts that meet their needs. By selecting the appropriate license type and customizing license terms, users can ensure that their projects comply with appropriate legal and ethical standards while protecting their intellectual property and interests.
+## Contributors
+
+Big thanks to all the people who have already contributed!
+[![contributors](https://contrib.rocks/image?repo=Xuanle06/license-generator)](https://github.com/Xuanle06/license-generator/graphs/contributors)
+
+## Credits
+
+Coded with ❤️ by xl.kind
+Contributor graph is generated using [contrib.rocks](https://contrib.rocks/preview?repo=Xuanle06%2Flicense-generator).
+
+## License
+
+This project is under the [MIT](LICENSE).
